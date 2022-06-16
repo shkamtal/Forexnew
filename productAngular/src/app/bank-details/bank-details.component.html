@@ -1,0 +1,95 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    </head>
+    <body>
+
+<form [formGroup]="bankDetails" class="was-validated">
+  <h2 class="center">Bank Details </h2><br>
+  <div class="container" >
+
+    <label for="uemail" class="form-label" style="background-color:darkgoldenrod; color:white" >User Email Id : {{temploginemailid}}</label>
+
+
+  <table >
+    <tr>
+        <td >
+          <label for="A_Number" class="form-label">AccountNumber:</label>
+          <input type="number" class="form-control" id="A_Number" placeholder="Enter Your Account Number " formControlName="accountnumber" required>
+          <div class="valid-feedback">Valid.</div>
+          <div class="invalid-feedback">Please fill out this field.</div>
+        </td>
+
+
+        <td>
+          <label for="B_Name" class="form-label">BankName:</label>
+          <input type="text" class="form-control" id="B_Name" placeholder="Enter Your Bank Name" formControlName="bankname" required>
+          <div class="valid-feedback">Valid.</div>
+          <div class="invalid-feedback">Please fill out this field.</div>
+        </td>
+
+        <td>
+          <img src="assets/images/bank.png" style="width: 50%;height: 30%;" class="img-fluid">
+        </td>
+</tr>
+<tr>
+        <td>
+          <label for="U_City" class="form-label">City:</label>
+          <input type="text" class="form-control" id="U_City" placeholder="Enter Your City" formControlName="city" required>
+          <div class="valid-feedback">Valid.</div>
+          <div class="invalid-feedback">Please fill out this field.</div>
+        </td>
+
+
+        <td>
+          <label for="A_Type" class="form-label">AccountType:</label>
+          <input type="text" class="form-control" id="A_Type" placeholder="Enter Your Account Type" formControlName="accounttype" required>
+          <div class="valid-feedback">Valid.</div>
+          <div class="invalid-feedback">Please fill out this field.</div>
+        </td>
+</tr>
+<tr>
+       <td>
+          <label for="A_Balance" class="form-label">Account_Balance:</label>
+          <input type="text" class="form-control" id="A_Balance" placeholder="Enter Your Account Balance" formControlName="account_balance" required>
+          <div class="valid-feedback">Valid.</div>
+          <div class="invalid-feedback">Please fill out this field.</div>
+       </td>
+
+        <td>
+          <label for="IFSC_Code" class="form-label">IFSCCode:</label>
+          <input type="text" class="form-control" id="IFSC_Code"  placeholder="Enter Your IFSC Code"  formControlName="ifsccode" value="" required>
+          <div class="valid-feedback">Valid.</div>
+          <div class="invalid-feedback">Please fill out this field.</div>
+        </td>
+
+  </tr>
+  <tr>
+           <td>
+          <label for="U_ID" class="form-label">User_ID:</label>
+          <select class="form-control" id="user_id" formControlName="user_id">
+            <option *ngFor="let data of temp">{{data.user_id}}</option>
+           </select>
+          <div class="valid-feedback">Valid.</div>
+          <div class="invalid-feedback">Please fill out this field.</div>
+      </td>
+
+      <td>
+      <button type="button" (click)="registerUser()" class="btn btn-primary">Submit</button>
+      </td>
+
+</tr>
+  </table>
+
+</div>
+
+</form>
+

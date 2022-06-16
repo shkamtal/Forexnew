@@ -1,0 +1,237 @@
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\vtavade\source\repos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\vtavade\source\repos\WebApplication1\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\vtavade\source\repos\Project\18-05\New folder\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\vtavade\source\repos\Project\18-05\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\SHKAMTAL\Desktop\vscode\WebApplication1\bin\Debug\netcoreapp3.1\UI\vendor\fontawesome-free\package.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\UI\vendor\fontawesome-free\package.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\productAngular\angular.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\productAngular\dist\productAngular\assets\images\UI\vendor\fontawesome-free\package.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\productAngular\e2e\tsconfig.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\productAngular\package-lock.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\productAngular\package.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\productAngular\src\assets\images\UI\vendor\fontawesome-free\package.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\productAngular\tsconfig.app.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\productAngular\tsconfig.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\productAngular\tsconfig.spec.json
+C:\Users\vtavade\source\repos\Project\Shilpa\WebApplication1\bin\Debug\netcoreapp3.1\productAngular\tslint.json
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\UI\vendor\fontawesome-free\package.json
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\vtavade\source\repos\Project\Shilpa\09-06\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\UI\vendor\fontawesome-free\package.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\SHKAMTAL\Desktop\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\productAngular\angular.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\productAngular\dist\productAngular\assets\images\UI\vendor\fontawesome-free\package.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\productAngular\e2e\tsconfig.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\productAngular\package-lock.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\productAngular\package.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\productAngular\src\assets\images\UI\vendor\fontawesome-free\package.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\productAngular\tsconfig.app.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\productAngular\tsconfig.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\productAngular\tsconfig.spec.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\productAngular\tslint.json
+C:\Users\SHKAMTAL\Desktop\Fullstack\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\productAngular\angular.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\productAngular\dist\productAngular\assets\images\UI\vendor\fontawesome-free\package.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\productAngular\e2e\tsconfig.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\productAngular\package-lock.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\productAngular\package.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\productAngular\src\assets\images\UI\vendor\fontawesome-free\package.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\productAngular\tsconfig.app.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\productAngular\tsconfig.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\productAngular\tsconfig.spec.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\productAngular\tslint.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\UI\vendor\fontawesome-free\package.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\SHKAMTAL\Desktop\vscode\13-06-2022\Fullstack\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
